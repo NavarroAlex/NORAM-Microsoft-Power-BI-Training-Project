@@ -43,5 +43,6 @@ First, lets remove the column called "123" as we don't need this column:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20Columns.png)
 
 Next, we can split our "Time" column. We only want the actual date value from the column. So let's get rid of "Week Ending".
+
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Split%20Columns.png)
 
