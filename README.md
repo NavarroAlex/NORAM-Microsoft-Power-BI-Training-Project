@@ -20,4 +20,4 @@ We will import the following data sources:
 You are now inside the "Microsoft Power BI Query Editor".
 Lets grab the rest of our data sources by click "New Source" under the "Home" Tab.
 
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Transform%20Data.png)
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Home%20Tab.png)
