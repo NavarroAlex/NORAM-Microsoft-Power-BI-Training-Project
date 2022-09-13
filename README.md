@@ -46,3 +46,5 @@ Next, we can split our "Time" column. We only want the actual date value from th
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Split%20Columns.png)
 
+Once you click "Split Column" and "By Positions", you should be prompted with the following screen:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Annotation%202022-09-13%20094116.png)
