@@ -1,1 +1,1 @@
-# NORAM-Microsoft-Power-BI-Training
+# NORAM Microsoft Power BI Pro Training
