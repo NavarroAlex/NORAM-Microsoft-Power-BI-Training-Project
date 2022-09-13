@@ -36,3 +36,8 @@ We will implement the following steps:
 * Rename Columns
 * Create New Columns
 * Replace Null Values
+
+Lets start with the "Product Sales Data"
+
+First Lets remove the column called 123 as we don't need this column:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20Columns.png)
