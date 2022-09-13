@@ -25,3 +25,13 @@ Lets grab the rest of our data sources by click "New Source" under the "Home" Ta
 ## Data Transformation/Data Cleaning:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/5d5c22e040c6beab16860e8e_data-cleaning-thumb.png)
+
+Now that we have all of our data sources imported into the Microsft Power Query Editor, we can start cleaning our data!
+We will implement the following steps:
+* Remove Uncenessary columns
+* Extract specific values from a column
+* Data Type Transformation
+* Join Data Sources Together
+* Remove Duplicates
+* Rename Columns
+* Create New Columns
