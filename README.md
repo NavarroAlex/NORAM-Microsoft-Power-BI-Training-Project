@@ -4,8 +4,15 @@
 ## Importing Data Sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Sources.png)
 
-We will import the folllwing data sources:
+We will import the following data sources:
 * Product Sales Data "Text File"
 * Customer Mapping File "Excel File"
 * Product Attributes Data "Excel File"
 
+## Steps to Import Data:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Import%20Data%20Sources.png)
+
+* Under the "Home" tab click "Get Data"
+* We will first start with importing the "Product Sales Data" which is a Text file type, so we want to click "Text/CSV"
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Transform%20Data.png)
