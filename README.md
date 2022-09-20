@@ -64,5 +64,6 @@ Lets remove column "Time.1" and rename column "Time.2" to "Time":
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Time%202.png)
 
 You should now have one column called "Time" and it should look like the following:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Time.png)
 
 
