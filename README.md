@@ -17,13 +17,13 @@ We will import the following data sources:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Transform%20Data.png)
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Annotation%202022-09-13%20090046.png)
+
 You are now inside the "Microsoft Power BI Query Editor".
 Lets grab the rest of our data sources by click "New Source" under the "Home" Tab.
 Once you're done grabbing the rest of the data sources, should now see the following three data sources inside the Microsoft PowerBI Query Editor.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/All%20Physical%20Data%20Sources.png)
-
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Annotation%202022-09-13%20090046.png)
 
 ## Data Transformation/Data Cleaning:
 
