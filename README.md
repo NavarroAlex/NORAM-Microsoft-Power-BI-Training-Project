@@ -68,4 +68,4 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Time.png)
 
 ### Let's replace the data types of column "Dollar Sales" with a fixed decimal data type and column "Unit Sales" with a whole number data type:
-
+![ScreenShot]()
