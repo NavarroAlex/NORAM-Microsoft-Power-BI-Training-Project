@@ -60,5 +60,6 @@ Lets remove column "Time.1" and rename column "Time.2" to "Time":
 - double click on the header of column "Time.2" and Rename to Time
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20Column%20time.1.png)
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Time%202.png)
 
 
