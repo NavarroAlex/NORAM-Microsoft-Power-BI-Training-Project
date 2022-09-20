@@ -20,7 +20,7 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Annotation%202022-09-13%20090046.png)
 
 You are now inside the "Microsoft Power BI Query Editor".
-Lets grab the rest of our data sources by click "New Source" under the "Home" Tab.
+Lets grab the rest of our data sources by clicking "New Source" under the "Home" Tab.
 Once you're done grabbing the rest of the data sources, should now see the following three data sources:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/All%20Physical%20Data%20Sources.png)
@@ -51,3 +51,6 @@ Next, we can split our "Time" column. We only want the actual date value from th
 
 Once you click "Split Column" and "By Positions", you should be prompted with the following screen:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Annotation%202022-09-13%20094116.png)
+
+You should now see two date columns, one is called "Time.1" and the other "Time.2".
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Time%20Column1%20and%20Column2.png)
