@@ -21,7 +21,7 @@ We will import the following data sources:
 
 You are now inside the "Microsoft Power BI Query Editor".
 Lets grab the rest of our data sources by click "New Source" under the "Home" Tab.
-Once you're done grabbing the rest of the data sources, should now see the following three data sources inside the Microsoft PowerBI Query Editor.
+Once you're done grabbing the rest of the data sources, should now see the following three data sources:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/All%20Physical%20Data%20Sources.png)
 
