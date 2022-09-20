@@ -56,3 +56,4 @@ You should now see two date columns, one is called "Time.1" and the other "Time.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Time%20Column1%20and%20Column2.png)
 
 Lets remove column "Time.1" and rename column "Time.2" to "Time".
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/remove%20column%20time.1%20and%20rename%20column%20time.2.png)
