@@ -67,7 +67,7 @@ We will import the following data sources:
 ### You should now have one column called "Time" and it should look like the following:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Time.png)
 
-### Let's replace the data types of column "Dollar Sales" with a fixed decimal data type and column "Unit Sales" with a whole number data type:
+### Let's replace the data type of column "Dollar Sales" with a fixed decimal data type. Let's also replace the data type of column "Unit Sales" with a whole number data type:
 
 - click the data type symbol which will be the left of the column name for each column. Here, you will then be able to change the data type.
 
