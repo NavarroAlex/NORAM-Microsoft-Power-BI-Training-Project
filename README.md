@@ -115,3 +115,6 @@ We will import the following data sources:
 ### Expand Customer Mapping:
 * Scroll to the right and select the column "Customer Mapping" mirror the screenshot below and click "OK".
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20Expand.png)
+
+### Learning how to create a "Conditional Column":
+* Lets learn how to add a custom column to our dataset, in this case we are going to create a Conditional column that will display the business unit depending on the "Custom Type Value" value.
