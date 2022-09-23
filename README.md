@@ -117,7 +117,15 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20Expand.png)
 
 ### Learning how to create a "Conditional Column":
-* Lets learn how to add a custom column to our dataset, in this case we are going to create a Conditional column that will display the business unit depending on the "Custom Type Value" value.
+* Lets learn how to add a custom column to our dataset, in this case we are going to create a Conditional column that will display the category depending on the "Custom Type Value" value.
 * Go to the "Add Column" tab at the top and then click "Conditional Column".
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Conditional%20Column.png)
+
+### Category Logic:
+* IF Custom Type Value = TRADITIONAL THEN BEVERAGES
+* IF Custom Type Value = ALMOND THEN BEVERAGES
+* IF Custom Type Value = GREEK THEN YOGURT
+* IF Custom Type Value = REGULAR THEN YOGURT
+* ELSE NULL
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Conditional%20Logic.png)
