@@ -84,3 +84,6 @@ We will import the following data sources:
 
 ### Under the "Home" tab, select "Merge Queries" and "Merge Queries":
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Merge%20Queries%202.png)
+
+### Scroll to the far right and select the "Product Attributes" column. Click "Expand" and mirror the screenshot below then click "OK".
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Expand%20Columns.png)
