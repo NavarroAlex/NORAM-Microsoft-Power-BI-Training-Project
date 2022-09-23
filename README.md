@@ -130,3 +130,6 @@ We will import the following data sources:
 * ELSE NULL
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Conditional%20Logic.png)
+
+### We're now done cleaning and transforming our data, click "Close and Apply":
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Close%20and%20Apply.png)
