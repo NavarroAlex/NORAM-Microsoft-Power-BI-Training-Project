@@ -128,4 +128,5 @@ We will import the following data sources:
 * IF Custom Type Value = GREEK THEN YOGURT
 * IF Custom Type Value = REGULAR THEN YOGURT
 * ELSE NULL
+
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Conditional%20Logic.png)
