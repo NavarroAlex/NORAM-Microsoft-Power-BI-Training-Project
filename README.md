@@ -102,3 +102,6 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20columns%20customer%20mapping.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Column%20Headers.png)
+
+### After cleaning the Customer Mapping file, it should look like the following:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20File%20Clean.png)
