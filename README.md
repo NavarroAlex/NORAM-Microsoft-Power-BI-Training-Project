@@ -107,4 +107,7 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20File%20Clean.png)
 
 ### Now that our Customer Mapping file is clean, let's merge this dataset with our "Product Sales Data".
+* Click the "Customer Mapping" file first.
+* Hold down CTRL then click the "Product Sales Data" data set.
+* Under the "Home" tab, go to "Merge Queries" and select "Merge Queries"
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Merge.png)
