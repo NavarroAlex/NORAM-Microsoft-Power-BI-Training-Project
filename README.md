@@ -79,8 +79,8 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Weighted%20Average%20Base%20Price.png)
 
 ### Before we do our first merge, lets clean the "Product Attributes" dataset:
-    * Remove the "123" column as we don't need it.
-    * Remove Duplicates
+* Remove the "123" column as we don't need it.
+* Remove Duplicates
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20Columns%20PA.png)
 
@@ -94,3 +94,11 @@ We will import the following data sources:
 
 ### Scroll to the far right and select the "Product Attributes" column. Click "Expand" and mirror the screenshot below then click "OK".
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Expand%20Columns.png)
+
+### Now let's clean our "Customer Mapping" file.
+* Remove column "1" as we don't need this column.
+* Promote Headers. Move the headers up one row for we can see the headers were imported on the second and now the first row.
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Remove%20columns%20customer%20mapping.png)
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Column%20Headers.png)
