@@ -80,3 +80,7 @@ We will import the following data sources:
 
 ### Let's do our first merge. We will merge the Product Sales Data with the Product Attributes dataset using "SKU" as our primary key to merge on.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/First%20Merge.png)
+
+
+### Under the "Home" tab, select "Merge Queries" and "Merge Queries":
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Merge%20Queries%202.png)
