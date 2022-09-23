@@ -105,3 +105,6 @@ We will import the following data sources:
 
 ### After cleaning the Customer Mapping file, it should look like the following:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20File%20Clean.png)
+
+### Now that our Customer Mapping file is clean, let's merge this dataset with our "Product Sales Data".
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Merge.png)
