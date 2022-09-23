@@ -111,3 +111,7 @@ We will import the following data sources:
 * Hold down CTRL then click the "Product Sales Data" data set.
 * Under the "Home" tab, go to "Merge Queries" and select "Merge Queries"
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Merge.png)
+
+### Expand Customer Mapping:
+* Scroll to the right and select the column "Customer Mapping" mirror the screenshot below and click "OK".
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Customer%20Mapping%20Expand.png)
