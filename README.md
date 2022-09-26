@@ -1,7 +1,7 @@
 # NORAM Microsoft Power BI Pro Training
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Theme.png)
 
-## Importing Data Sources:
+# Importing Data Sources:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Sources.png)
 
@@ -10,7 +10,7 @@ We will import the following data sources:
 * Customer Mapping File "Excel File"
 * Product Attributes Data "Excel File"
 
-# Steps to Import Data:
+## Steps to Import Data:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Import%20Data%20Sources.png)
 
 * Under the "Home" tab click "Get Data"
