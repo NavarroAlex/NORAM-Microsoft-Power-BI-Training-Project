@@ -199,3 +199,4 @@ We now will start building our first report using the following visuals:
 Your Area chart should look like the following below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Fields%20First.png)
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Area%20Chart%201.png)
