@@ -191,6 +191,8 @@ Before we start creating DAX measures, it's best practice to create a "Measures"
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Create%20Measures%20Table%201.png)
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Table.png)
+
 There is multiple ways you can go about creating new measures "DAX" functions in Microsoft Power BI. We will go about it using the following method:
 * Go to the "Modeling" Tab at the top of your screen.
 * Click the "New Measure" button.
