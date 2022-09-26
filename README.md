@@ -185,6 +185,10 @@ You should now see the following date table below:
 # Data Modeling:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Data%20Modeling.png)
 * Because we did most of our joining of data sources within the Power Query Editor, we won't have much to join in the data model view. If we hadn't done our joining in the Power Query editor, (which is common if you're connected to a live dataset as you cannot access the Power Query editor when connecting to a live dataset), you will want to use the data modeling tab to join your data.
+* The only data sources we need to join is our table called "Dataset" and the "Calendar" table we created earlier.
+* We need to join on a primary key (unique column indentifer in both tables) for this we will use "Date".
+* Click the "Date" column and drag and drop on top of the "Date" column in the "Dataset" table.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Joining%20Date%20Table.png)
 
 
 ## Creating Measures Table:
