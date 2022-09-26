@@ -412,4 +412,14 @@ we need a way to display measures as columns in a table we can do this by doing 
 To create the metrics table, do the following:
 * Under the "Home" tab, click "Enter Data".
 * Then type in all the metrics you wanted to display in the columns field, add a column for each new metric you want to display.
+    - Gross Sales
+    - Sales Discount
+    - Net Sales
+    - Bill Cases
+    - Bill Lbs
+    - Bill Gross Lbs
+    - Bill KG
+    - Bill Liters
 * Rename Table to be "Metric"
+* Your table should look like the following:
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Metric.png)
