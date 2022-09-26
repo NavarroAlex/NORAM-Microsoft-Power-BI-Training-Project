@@ -188,6 +188,9 @@ Let's add a color background theme to our report.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/format%202.png)
 
+Your report canvas should now look like the following:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Back%20Ground%20Color.png)
+
 We now will start building our first report using the following visuals:
 * Area chart
 * Line and Stacked column chart
