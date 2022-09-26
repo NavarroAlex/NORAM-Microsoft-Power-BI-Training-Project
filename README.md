@@ -177,5 +177,13 @@ CALENDARAUTO(12)
 )
 ```
 
-## Data Visualization
+## Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
+We now will start building our first report using the following visuals:
+* Line and Stacked column chart
+* Area chart
+* Slicer
+* KPI Cards
+
+## Line and Stacked Column Chart:
+Select the "Line and Stacked Column" chart and drag and drop into the blank cavas
