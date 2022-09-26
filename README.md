@@ -141,6 +141,7 @@ We will import the following data sources:
 If you're using "physical" datasources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
+* A blank table will appear, paste in the following date script below then press the check mark.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
 
@@ -176,6 +177,7 @@ CALENDARAUTO(12)
 
 )
 ```
+
 
 You should now see the following date table below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
