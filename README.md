@@ -178,6 +178,32 @@ CALENDARAUTO(12)
 )
 ```
 
+```
+Total Sales =
+    -- create total sales:
+    SUM('Dataset'[Unit Sales])
+```
+
+```
+Current Month Sales = 
+-- calculate the latest value of the metric you're wanting to evaluate:
+    CALCULATE(
+        'Measures Table'[Total Sales],
+        -- use the MAX() function to filter the data to grab the value from the lastest month:
+        Calendar_Complete[Month Number]=MAX(Calendar_Complete[Month Number])
+)
+```
+
+```
+Previous Month Sales = 
+    --calculate the previous month value of the metric you're wanting to evaluate:
+    CALCULATE(
+        'Measures Table'[Total Sales],
+        -- extract the previous month sales value:
+        Calendar_Complete[Month Number]=(MAX(Calendar_Complete[Month Number])-1)
+    )
+```
+
 ### Creating Data Analysis Expression (DAX):
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
