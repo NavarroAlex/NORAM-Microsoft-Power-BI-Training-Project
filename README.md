@@ -180,14 +180,22 @@ CALENDARAUTO(12)
 ## Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
 We now will start building our first report using the following visuals:
-* Line and Stacked column chart
 * Area chart
+* Line and Stacked column chart
 * Slicer
 * KPI Cards
 
-## Line and Stacked Column Chart:
-* Click the "Line and Stacked Column" and you should see it populate into the blank canvas
+## Area Chart:
+* Click the "Area Chart" and you should see it populate into the blank canvas
 * Resize to your preference.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Drag%20and%20Drop%201.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/save%202.png)
+
+* Drag and drop "Month Name" from the "Fields" pane into the X-Axis.
+* Drag and Drop "Total Sales" from the "Fields" pane into the Y-Axis.
+* Drag and Drop "Geography" from the "Fields" pane into the Legend.
+
+Your Area chart should look like the following below:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Fields%20First.png)
+
