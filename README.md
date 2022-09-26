@@ -191,8 +191,6 @@ Before we start creating DAX measures, it's best practice to create a "Measures"
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Table.png)
 
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Formating%20Measures.png)
-
 ## Creating New Measures:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
 
@@ -200,8 +198,11 @@ There is multiple ways you can go about creating new measures "DAX" functions in
 * Go to the "Modeling" Tab at the top of your screen.
 * Click the "New Measure" button.
 * A blank formula bar should open up and this is where you will create your new DAX measure.
-* Copy and paste the "Total Sales" formula below and paste it into the empty formula bar. Make sure to click the "check mark" once you're done.
+* Copy and paste the "Total Sales" formula below and paste it into the empty formula bar.
 * Format measure using the formatting options under the "Measure Tools" tab at the top of the page.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Formating%20Measures.png)
+    - make sure you store the measure under the "Measures Table" we created above.
+* Click the "check mark" once you're done.
 * You then should see the formula propogate under the "Measures Table"
 * Repeat this process with the remaining formulas below.
 
