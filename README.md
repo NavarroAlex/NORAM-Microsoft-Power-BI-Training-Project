@@ -138,11 +138,8 @@ We will import the following data sources:
 # Creating Data Analysis Expression (DAX):
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
-If you're using "physical" datasources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain
-* Go to the "Data Model" View
-* Then click on the "Table tools" tab then select "New table".
-* A blank table will appear, paste in the following date script below then press the check mark.
-* Then we're going to use the following DAX functions to develop a script that will give us multiple date attributes.
+If you're using "physical" data sources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain date attributes.
+* We're going to use the following DAX functions to develop a script that will give us multiple date attributes.
     - ADDCOLUMNS
     - YEAR
     - MONTH
@@ -150,6 +147,9 @@ If you're using "physical" datasources and not connected to a live connection, y
     - DAY
     - COMBINEVALUES
     - QUARTER
+* Go to the "Data Model" View
+* Then click on the "Table tools" tab then select "New table".
+* A blank table will appear, paste in the following date script below then press the check mark.
 * Code we will use:
 ```
 Calendar_Complete = ADDCOLUMNS(
