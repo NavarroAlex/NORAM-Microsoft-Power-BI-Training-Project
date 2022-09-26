@@ -145,6 +145,14 @@ If you're using "physical" datasources and not connected to a live connection, y
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
 
 Then we're going to use the following DAX functions to develop a script that will give us multiple date attributes.
+* ADDCOLUMNS
+* YEAR
+* MONTH
+* FORMAT
+* DAY
+* COMBINEVALUES
+* QUARTER
+* WEEKDAY
 ```
 Calendar_Complete = ADDCOLUMNS(
 --create generate calendar dates:
