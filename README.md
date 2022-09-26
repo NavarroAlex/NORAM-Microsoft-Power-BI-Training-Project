@@ -247,4 +247,6 @@ Your report should look similar to the following depending on how you formatted 
 * Format the visual to your liking.
 * Your report should now look similar to the one below:
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Report%203.png)
+
 
