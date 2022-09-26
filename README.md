@@ -178,7 +178,7 @@ CALENDARAUTO(12)
 ```
 
 ## Data Visualization:
-![ScreenShot](https:/github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
 Let's add a color background theme to our report.
 * Click into the blank white canvas
 * Under the "Visualization" pane, click "Format Your Report"
