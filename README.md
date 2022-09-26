@@ -142,18 +142,15 @@ If you're using "physical" datasources and not connected to a live connection, y
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
 * A blank table will appear, paste in the following date script below then press the check mark.
-
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
-
-Then we're going to use the following DAX functions to develop a script that will give us multiple date attributes.
-* ADDCOLUMNS
-* YEAR
-* MONTH
-* FORMAT
-* DAY
-* COMBINEVALUES
-* QUARTER
-* WEEKDAY
+* Then we're going to use the following DAX functions to develop a script that will give us multiple date attributes.
+    - ADDCOLUMNS
+    - YEAR
+    - MONTH
+    - FORMAT
+    - DAY
+    - COMBINEVALUES
+    - QUARTER
+* Code we will use:
 ```
 Calendar_Complete = ADDCOLUMNS(
 --create generate calendar dates:
@@ -177,6 +174,10 @@ CALENDARAUTO(12)
 
 )
 ```
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Paste%20in%20Code.png)
 
 
 You should now see the following date table below:
