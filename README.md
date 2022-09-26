@@ -398,3 +398,6 @@ You are then brought to the "Data Hub":
 
 ## Creating New Measures Continued:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
+
+### Common Microstrategy Table:
+We're going to start with building a common MS table used by many aspects of the business.
