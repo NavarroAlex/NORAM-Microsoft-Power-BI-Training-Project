@@ -266,4 +266,5 @@ Your report should look similar to the following depending on how you formatted 
 
 Your report should look similar to the following:
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/final4.png)
 
