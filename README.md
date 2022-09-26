@@ -187,6 +187,7 @@ You should now see the following date table below:
 
 Before we start creating DAX measures, it's best practice to create a "Measures" table to store all of the DAX formulas we create.
 * In the Home tab of the Desktop ribbon, click Enter Data. This will pop up a screen that allows you to manually enter data.
+
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Create%20Measures%20Table%201.png)
 
 There is multiple ways you can go about creating new measures "DAX" functions in Microsoft Power BI. We will go about it using the following method:
