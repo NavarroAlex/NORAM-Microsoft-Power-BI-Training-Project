@@ -204,6 +204,33 @@ Previous Month Sales =
     )
 ```
 
+```
+Sales Growth Rate % = 
+    --calculate the month to month sales growth rate:
+    DIVIDE(
+        ([Current Month Sales]-[Previous Month Sales]),
+        [Previous Month Sales])
+```
+
+```
+Price = 
+    -- create price measure:
+    DIVIDE(SUM('Dataset'[Dollar Sales]),'Measures Table'[Total Sales])
+```
+
+```
+Switch_True_Function = 
+-- set switch true function:
+SWITCH(TRUE(),
+-- create first logical condition:
+[Current Month Sales]=BLANK(),0,
+-- create second logical condition:
+[Previous Month Sales]=BLANK(),0,
+--otherwise return the Sales Growth Rate %:
+'Measures Table'[Sales Growth Rate %]<>BLANK(),'Measures Table'[Sales Growth Rate %]
+)
+```
+
 ### Creating Data Analysis Expression (DAX):
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
