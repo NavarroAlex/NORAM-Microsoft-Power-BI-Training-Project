@@ -182,9 +182,7 @@ CALENDARAUTO(12)
 You should now see the following date table below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
 
-## Creating New Measures:
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
-
+## Creating Measures Table:
 Before we start creating DAX measures, it's best practice to create a "Measures" table to store all of the DAX formulas we create.
 * In the Home tab of the Desktop ribbon, click Enter Data. This will pop up a screen that allows you to manually enter data.
 * We are going to rename the column to Measures and then rename the table name at the bottom to Measure Table. See the screenshot below.
@@ -194,6 +192,9 @@ Before we start creating DAX measures, it's best practice to create a "Measures"
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Table.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Formating%20Measures.png)
+
+## Creating New Measures:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
 
 There is multiple ways you can go about creating new measures "DAX" functions in Microsoft Power BI. We will go about it using the following method:
 * Go to the "Modeling" Tab at the top of your screen.
