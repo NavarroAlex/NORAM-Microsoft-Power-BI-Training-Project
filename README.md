@@ -189,6 +189,9 @@ There is multiple ways you can go about creating new measures "DAX" functions in
 * Go to the "Modeling" Tab at the top of your screen.
 * Click the "New Measure" button.
 * A blank formula bar should open up and this is where you will create your new DAX measure.
+* Copy and paste the "Total Sales" formula below and paste it into the empty formula bar. Make sure to click the "check mark" once you're done.
+* You then should see the formula propogate under the "Measures Table"
+* Repeat this process with the remaining formulas below.
 
 ```
 Total Sales =
