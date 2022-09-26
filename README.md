@@ -393,4 +393,5 @@ before we create our next report, lets connect to our data source which now be a
 
 You are then brought to the "Data Hub":
 * You can see which live datasets you have access to.
-* ![ScreenShot]()
+* For our purposes, let's connect to the "300. Order to Cash Dataset".
+* ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Hub.png)
