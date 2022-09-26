@@ -183,7 +183,8 @@ CALENDARAUTO(12)
 ```
 Total Sales =
     -- create total sales:
-    SUM('Dataset'[Unit Sales])
+    SUM('Dataset'[Unit Sales]
+)
 ```
 
 ```
@@ -213,7 +214,6 @@ Sales Growth Rate % =
         ([Current Month Sales]-[Previous Month Sales]),
         [Previous Month Sales]
 )
-
 ```
 
 ```
@@ -221,7 +221,6 @@ Price =
     -- create price measure:
     DIVIDE(SUM('Dataset'[Dollar Sales]),'Measures Table'[Total Sales]
 )
-
 ```
 
 ```
@@ -236,11 +235,9 @@ SWITCH(TRUE(),
 --otherwise return the Sales Growth Rate %:
 'Measures Table'[Sales Growth Rate %]<>BLANK(),'Measures Table'[Sales Growth Rate %]
 )
-
 ```
 
 ```
-
 Sales Discount Type = 
     SWITCH(TRUE(),
     -- first condition:
@@ -250,7 +247,6 @@ Sales Discount Type =
     -- third condition:
     [Average Sales Discount]<-100, "TrafficLowLight"
 )
-
 ```
 
 # Data Visualization:
