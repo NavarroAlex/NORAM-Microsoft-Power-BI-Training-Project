@@ -141,3 +141,30 @@ If you're using "physical" datasources and not connected to a live connection, y
 
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
+
+Then we're going to use the following DAX functions to develop a script that will give us multiple date attributes.
+```
+Calendar_Complete = ADDCOLUMNS(
+--create generate calendar dates:
+CALENDARAUTO(12)
+-- create year column:
+,"Year",YEAR([Date])
+-- create month number column:
+,"Month Number", MONTH([Date])
+-- create month name:
+,"Month Name",FORMAT([Date],"MMMM")
+-- create day number:
+,"Day",DAY([Date])
+-- create month and year column:
+,"Month_Year",COMBINEVALUES(", ",FORMAT([Date],"MMMM"),FORMAT([Date],"yyyy"))
+-- create quarter column:
+,"Quarter",QUARTER([Date])
+-- create week day number:
+,"Week Day Number",WEEKDAY([Date],1)
+--create week day number:
+,"Week Day Name",FORMAT([Date],"DDDD")
+
+)
+```
