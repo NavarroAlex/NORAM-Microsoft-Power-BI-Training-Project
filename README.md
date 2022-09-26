@@ -215,3 +215,5 @@ Your Area chart should look like the following below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Area%20Chart%201.png)
 
 You can format the chart to your liking.
+
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Area%20Chart%20Final.png)
