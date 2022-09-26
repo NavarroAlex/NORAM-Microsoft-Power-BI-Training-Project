@@ -138,3 +138,6 @@ We will import the following data sources:
 If you're using "physical" datasources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-Calendar.png)
+
+* Go to the "Data Model" View
+* Then click on the "Table tools" tab then select "New table".
