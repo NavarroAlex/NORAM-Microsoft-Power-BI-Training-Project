@@ -189,6 +189,9 @@ You should now see the following date table below:
 * We need to join on a primary key (unique column indentifer in both tables) for this we will use "Date".
 * Click the "Date" column and drag and drop on top of the "Date" column in the "Dataset" table.
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Joining%20Date%20Table.png)
+* You can see the Microsoft Power BI was able to auto-detect what kind of relationship should be used to join the two tables together. This isn't always the case so make sure that the proper join is being applied before moving onto the next step.
+* If you double click on the relationship between the two tables, you can view what kind of relationship is being used to join the tables. In this example, Power BI used a many-one relationship.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Open%20Join%20View.png)
 
 
 ## Creating Measures Table:
