@@ -10,7 +10,7 @@ We will import the following data sources:
 * Customer Mapping File "Excel File"
 * Product Attributes Data "Excel File"
 
-## Steps to Import Data:
+# Steps to Import Data:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Import%20Data%20Sources.png)
 
 * Under the "Home" tab click "Get Data"
@@ -27,7 +27,7 @@ We will import the following data sources:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/All%20Physical%20Data%20Sources.png)
 
-## Data Transformation/Data Cleaning:
+# Data Transformation/Data Cleaning:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/5d5c22e040c6beab16860e8e_data-cleaning-thumb.png)
 
@@ -245,7 +245,7 @@ Sales Discount Type =
     )
 ```
 
-## Data Visualization:
+# Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
 Let's add a color background theme to our report.
 * Click into the blank white canvas
