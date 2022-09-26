@@ -231,6 +231,18 @@ SWITCH(TRUE(),
 )
 ```
 
+```
+Sales Discount Type = 
+    SWITCH(TRUE(),
+    -- first condition:
+    [Average Sales Discount]>=-100,"TrafficHighLight",
+    -- second condition:
+    [Average Sales Discount]<0 && [Average Sales Discount] >=200, "TrafficMediumLight",
+    -- third condition:
+    [Average Sales Discount]<-100, "TrafficLowLight"
+    )
+```
+
 ### Creating Data Analysis Expression (DAX):
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
