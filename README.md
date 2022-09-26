@@ -149,6 +149,8 @@ If you're using "physical" data sources and not connected to a live connection, 
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
 * A blank table will appear, paste in the following date script below then press the check mark.
+* You need to tell Microsoft Power BI that there exist a numeric hierarchy between the Month names as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
+    - 
 * Code we will use:
 ```
 Calendar_Complete = ADDCOLUMNS(
