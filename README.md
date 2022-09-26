@@ -262,5 +262,8 @@ Your report should look similar to the following depending on how you formatted 
     - Product
 * To rename a column, double click into the column name, then you should be able to rename it.
 
-![ScreenShot]()
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/double%20click%20into%20column%20name.png)
+
+Your report should look similar to the following:
+
 
