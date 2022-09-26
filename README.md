@@ -441,3 +441,14 @@ SWITCH (
     "Bill Liters", [Bill Liters]
 )
 ```
+
+Click on the "Matrix" visual and resize to your preference, then add in the following columns and measures:
+* ROWS:
+    - Brand
+    - Pack Group
+    - Pack Group Code
+* Columns:
+    - Bill Date
+* Values:
+    - Metric Selector
+* Your visual should look like the following:
