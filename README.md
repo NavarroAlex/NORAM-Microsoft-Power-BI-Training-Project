@@ -183,6 +183,7 @@ You should now see the following date table below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
 
 # Data Modeling:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Data%20Modeling.png)
 
 
 ## Creating Measures Table:
