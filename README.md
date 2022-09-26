@@ -135,7 +135,9 @@ We will import the following data sources:
 ### We're now done cleaning and transforming our data, click "Close and Apply":
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Close%20and%20Apply.png)
 
-### Creating a Date Table:
+### Creating Data Analysis Expression (DAX):
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
+
 If you're using "physical" datasources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-Calendar.png)
@@ -242,9 +244,6 @@ Sales Discount Type =
     [Average Sales Discount]<-100, "TrafficLowLight"
     )
 ```
-
-### Creating Data Analysis Expression (DAX):
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
 ## Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
