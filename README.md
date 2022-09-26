@@ -149,7 +149,8 @@ If you're using "physical" data sources and not connected to a live connection, 
 * Go to the "Data Model" View then click on the "Table tools" tab then select "New table".
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
 * A blank table will appear, paste in the following date script below then press the check mark.
-    - ```
+
+```
 Calendar_Complete = ADDCOLUMNS(
 --create generate calendar dates:
 CALENDARAUTO(12)
@@ -172,7 +173,9 @@ CALENDARAUTO(12)
 
 )
 ```
-    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Paste%20in%20Code.png)
+
+Once you've pasted the script and clicked the "Check Mark" you should see the following table created:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Paste%20in%20Code.png)
 
 * You need to tell Microsoft Power BI that there exist a numeric hierarchy for the "Month Name" column as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
     - Go to the "Calendar_Complete" table and click on "Month Name" column.
