@@ -226,8 +226,11 @@ You can format the chart to your liking.
     - Current Month Sales
     - Previous Month Sales
     - MoM Growth Rate %
+* Format to your liking.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/KPI%20Card1.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Resize%20and%20Drop%203.png)
+
+!
 
