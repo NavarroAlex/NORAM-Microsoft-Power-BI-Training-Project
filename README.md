@@ -184,7 +184,7 @@ Let's add a color background theme to our report.
 * Under the "Visualization" pane, click "Format Your Report"
 * Go to "Wallpaper" Then Click Browse and find where you stored the background image on your computer.
 
-![SreenShot]()
+![SreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/format%20your%20report.png)
 
 
 We now will start building our first report using the following visuals:
