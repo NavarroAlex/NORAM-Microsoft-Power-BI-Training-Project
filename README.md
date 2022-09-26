@@ -234,3 +234,5 @@ You can format the chart to your liking.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/KPI%20Final.png)
 
+Your report should now look like the following.
+![ScreenShot]()
