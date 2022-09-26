@@ -186,5 +186,5 @@ We now will start building our first report using the following visuals:
 * KPI Cards
 
 ## Line and Stacked Column Chart:
-Select the "Line and Stacked Column" chart and drag and drop into the blank canvas
+Click the "Line and Stacked Column" and you should see it populate into the blank canvas
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Drag%20and%20Drop%201.png)
