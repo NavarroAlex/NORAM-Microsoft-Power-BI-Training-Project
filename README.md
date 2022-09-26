@@ -182,6 +182,9 @@ CALENDARAUTO(12)
 You should now see the following date table below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
 
+# Data Modeling:
+
+
 ## Creating Measures Table:
 Before we start creating DAX measures, it's best practice to create a "Measures" table to store all of the DAX formulas we create.
 * In the Home tab of the Desktop ribbon, click Enter Data. This will pop up a screen that allows you to manually enter data.
