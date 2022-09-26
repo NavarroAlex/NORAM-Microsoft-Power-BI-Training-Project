@@ -184,6 +184,7 @@ You should now see the following date table below:
 
 # Data Modeling:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Data%20Modeling.png)
+* Because we did most of our joining of data sources within the Power Query Editor, we won't have much to join in the data model view. If we hadn't done our joining in the Power Query editor, which is common if you're connected to a live dataset as you cannot access the Power Query editor when connecting to a live dataset, you will want to use the data modeling tab to join your data.
 
 
 ## Creating Measures Table:
