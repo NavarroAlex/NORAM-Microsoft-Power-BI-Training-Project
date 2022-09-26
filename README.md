@@ -236,3 +236,15 @@ You can format the chart to your liking.
 
 Your report should look similar to the following depending on how you formatted your report so far.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/2nd.png)
+
+## Line and Stacked Column Chart:
+* Click the "Line and Stacked Column Chart" button under the "Visualization" pane.
+* Add in the following columns/measures:
+    - Month Name
+    - Dollar Sales
+    - Price
+    - Brand Name
+* Format the visual to your liking.
+* Your report should now look similar to the one below:
+
+
