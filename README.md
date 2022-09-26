@@ -222,6 +222,10 @@ You can format the chart to your liking.
 * Click the "KPI Card" visual and you should see it populate into the blank canvas.
 * Copy the Blank KPI Card by clicking on it and pressing CTRL C. Then CTRL V twice to paste it two more times.
 * Resize to your liking.
+* Drag and drop the following measures into each of the KPI cards.
+    - Current Month Sales
+    - Previous Month Sales
+    - MoM Growth Rate %
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/KPI%20Card1.png)
 
