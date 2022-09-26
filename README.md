@@ -186,6 +186,7 @@ Let's add a color background theme to our report.
 
 ![SreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/format%20your%20report.png)
 
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/format%202.png)
 
 We now will start building our first report using the following visuals:
 * Area chart
