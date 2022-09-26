@@ -149,8 +149,6 @@ If you're using "physical" data sources and not connected to a live connection, 
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
 * A blank table will appear, paste in the following date script below then press the check mark.
-* You need to tell Microsoft Power BI that there exist a numeric hierarchy between the Month names as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
-    - 
 * Code we will use:
 ```
 Calendar_Complete = ADDCOLUMNS(
@@ -175,6 +173,11 @@ CALENDARAUTO(12)
 
 )
 ```
+* You need to tell Microsoft Power BI that there exist a numeric hierarchy between the Month names as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
+    - Go to the "Calendar_Complete" table and click on "Month Name" column.
+    - Then at the top of the page click "Sort by Column" drop-down under the "Column Tools" tab.
+    - Then Check Sort By Column "Month Number". Now the months will be sorted in the correct order.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Ranking%20Month%20Name.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Calendar%20Table%20Creation.png)
 
