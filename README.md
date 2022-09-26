@@ -452,3 +452,4 @@ Click on the "Matrix" visual and resize to your preference, then add in the foll
 * Values:
     - Metric Selector
 * Your visual should look like the following:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/following.png)
