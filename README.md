@@ -217,3 +217,8 @@ Your Area chart should look like the following below:
 You can format the chart to your liking.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Area%20Chart%20Final.png)
+
+## KPI Cards:
+* Click the "KPI Card" visual and you should see it populate into the blank canvas.
+
+
