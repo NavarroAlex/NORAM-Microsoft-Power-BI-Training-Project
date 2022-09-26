@@ -403,3 +403,13 @@ You are then brought to the "Data Hub":
 We're going to start with building a common MS table used by many aspects of the business.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/MS%20Table.png)
+
+we need a way to display measures as columns in a table we can do this by doing the following:
+* Create a Metrics table to reference which metrics we want data displayed for.
+* Create a DAX function that will operate like a list to bring in the data for the metrics in our metrics table.
+
+### Creating Metrics Table:
+To create the metrics table, do the following:
+* Under the "Home" tab, click "Enter Data".
+* Then type in all the metrics you wanted to display in the columns field, add a column for each new metric you want to display.
+* Rename Table to be "Metric"
