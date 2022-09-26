@@ -1,5 +1,5 @@
 # NORAM Microsoft Power BI Pro Training
-![ScreenShot](Power-BI-DAX.png)
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Theme.png)
 
 ## Importing Data Sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Sources.png)
