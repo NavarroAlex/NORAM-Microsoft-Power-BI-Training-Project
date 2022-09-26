@@ -177,6 +177,9 @@ CALENDARAUTO(12)
 )
 ```
 
+### Creating Data Analysis Expression (DAX):
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
+
 ## Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
 Let's add a color background theme to our report.
