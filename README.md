@@ -384,3 +384,8 @@ Your report should look similar to the following:
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/final4.png)
 
+# Data Visualization Continued: Connecting to Live Data Source
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/live%20data%20source.png)
+
+before we create our next report, lets connect to our data source which now be a live connection.
+
