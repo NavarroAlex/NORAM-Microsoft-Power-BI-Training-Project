@@ -182,6 +182,10 @@ CALENDARAUTO(12)
 Let's add a color background theme to our report.
 * Click into the blank white canvas
 * Under the "Visualization" pane, click "Format Your Report"
+* Go to "Wallpaper" Then Click Browse and find where you stored the background image on your computer.
+
+![SreenShot]()
+
 
 We now will start building our first report using the following visuals:
 * Area chart
