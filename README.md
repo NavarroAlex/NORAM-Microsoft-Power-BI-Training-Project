@@ -183,6 +183,13 @@ CALENDARAUTO(12)
 You should now see the following date table below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
 
+## Creating New Measures:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
+There is multiple ways you can go about creating new measures "DAX" functions in Microsoft Power BI. We will go about it using the following method:
+* Go to the "Modeling" Tab at the top of your screen.
+* Click the "New Measure" button.
+* A blank formula bar should open up and this is where you will create your new DAX measure.
+
 ```
 Total Sales =
     -- create total sales:
