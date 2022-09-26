@@ -178,7 +178,11 @@ CALENDARAUTO(12)
 ```
 
 ## Data Visualization:
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
+![ScreenShot](https:/github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
+Let's add a color background theme to our report.
+* Click into the blank white canvas
+* Under the "Visualization" pane, click "Format Your Report"
+
 We now will start building our first report using the following visuals:
 * Area chart
 * Line and Stacked column chart
@@ -201,3 +205,5 @@ Your Area chart should look like the following below:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Fields%20First.png)
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Area%20Chart%201.png)
+
+You can format the chart to your liking.
