@@ -395,3 +395,6 @@ You are then brought to the "Data Hub":
 * You can see which live datasets you have access to.
 * For our purposes, let's connect to the "300. Order to Cash Dataset".
 * ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Hub.png)
+
+## Creating New Measures Continued:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
