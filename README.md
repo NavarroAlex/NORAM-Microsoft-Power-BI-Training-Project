@@ -2,7 +2,6 @@
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power%20BI%20Theme.png)
 
 # Importing Data Sources:
-
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Sources.png)
 
 We will import the following data sources:
@@ -185,6 +184,7 @@ You should now see the following date table below:
 
 ## Creating New Measures:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/New%20Measure.png)
+
 There is multiple ways you can go about creating new measures "DAX" functions in Microsoft Power BI. We will go about it using the following method:
 * Go to the "Modeling" Tab at the top of your screen.
 * Click the "New Measure" button.
