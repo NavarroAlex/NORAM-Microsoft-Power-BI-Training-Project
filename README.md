@@ -173,7 +173,7 @@ CALENDARAUTO(12)
 
 )
 ```
-* You need to tell Microsoft Power BI that there exist a numeric hierarchy between the Month names as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
+* You need to tell Microsoft Power BI that there exist a numeric hierarchy for the "Month Name" column as it's not able to detect this. This is why we created the column called "Month Number". Lets use it to rank our Month Names.
     - Go to the "Calendar_Complete" table and click on "Month Name" column.
     - Then at the top of the page click "Sort by Column" drop-down under the "Column Tools" tab.
     - Then Check Sort By Column "Month Number". Now the months will be sorted in the correct order.
