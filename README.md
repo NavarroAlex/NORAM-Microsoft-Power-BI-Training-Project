@@ -423,3 +423,21 @@ To create the metrics table, do the following:
 * Rename Table to be "Metric"
 * Your table should look like the following:
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Metric.png)
+
+* Now lets create our Metric Select DAX Function to help us bring in the data of the columns above.
+```
+Metric Selector = 
+VAR TEP=MAX(Metric[Metric])
+RETURN
+SWITCH (
+    TEP,
+    "Gross Sales", [Gross Sales],
+    "Sales Discount",FORMAT([Sales Discount],"Currency"),
+    "Net Sales", FORMAT([Net Sales],"Currency"),
+    "Bill Cases", [Bill Cases],
+    "Bill Lbs", [Bill Lbs],
+    "Bill Gross Lbs", [Bill Gross Lbs],
+    "Bill KG", [Bill KG],
+    "Bill Liters", [Bill Liters]
+)
+```
