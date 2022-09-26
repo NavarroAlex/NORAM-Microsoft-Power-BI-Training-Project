@@ -211,16 +211,21 @@ Sales Growth Rate % =
     --calculate the month to month sales growth rate:
     DIVIDE(
         ([Current Month Sales]-[Previous Month Sales]),
-        [Previous Month Sales])
+        [Previous Month Sales]
+)
+
 ```
 
 ```
 Price = 
     -- create price measure:
-    DIVIDE(SUM('Dataset'[Dollar Sales]),'Measures Table'[Total Sales])
+    DIVIDE(SUM('Dataset'[Dollar Sales]),'Measures Table'[Total Sales]
+)
+
 ```
 
 ```
+
 Switch_True_Function = 
 -- set switch true function:
 SWITCH(TRUE(),
@@ -231,9 +236,11 @@ SWITCH(TRUE(),
 --otherwise return the Sales Growth Rate %:
 'Measures Table'[Sales Growth Rate %]<>BLANK(),'Measures Table'[Sales Growth Rate %]
 )
+
 ```
 
 ```
+
 Sales Discount Type = 
     SWITCH(TRUE(),
     -- first condition:
@@ -242,7 +249,8 @@ Sales Discount Type =
     [Average Sales Discount]<0 && [Average Sales Discount] >=200, "TrafficMediumLight",
     -- third condition:
     [Average Sales Discount]<-100, "TrafficLowLight"
-    )
+)
+
 ```
 
 # Data Visualization:
