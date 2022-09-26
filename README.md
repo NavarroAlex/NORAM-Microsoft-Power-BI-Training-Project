@@ -220,7 +220,7 @@ You can format the chart to your liking.
 
 ## KPI Cards:
 * Click the "KPI Card" visual and you should see it populate into the blank canvas.
-* Copy the Blank KPI Card by clicking on it and pressing CTRL C. Then CTRL V twice to paste it two more times.
+* Copy the Blank KPI Card by clicking on it and pressing CTRL C. Then CTRL V to paste it two more times.
 * Resize to your liking.
 * Drag and drop the following measures into each of the KPI cards.
     - Current Month Sales
@@ -249,4 +249,18 @@ Your report should look similar to the following depending on how you formatted 
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Report%203.png)
 
+## Slicers:
+* Click the "Slicer" visual under the "Visualization" pane.
+* Copy the Blank "Slicker" visual by clicking on it and pressing CTRL C. Then CTRL V to paste it six more times.
+* Resize to your liking.
+* Add in the following attributes:
+    - Category
+    - Custom Type Value "Rename to Product Type"
+    - Brand Name
+    - Custom Size Value "Renamed to Size"
+    - Custom Count Value "Renamed to Count"
+    - Product
+* To rename a column, double click into the column name, then you should be able to rename it.
+
+![ScreenShot]()
 
