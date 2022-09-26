@@ -139,9 +139,6 @@ We will import the following data sources:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-DAX.png)
 
 If you're using "physical" datasources and not connected to a live connection, you will want to create a date table if you want to visualize the data by certain
-
-![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Power-BI-Calendar.png)
-
 * Go to the "Data Model" View
 * Then click on the "Table tools" tab then select "New table".
 
@@ -179,6 +176,9 @@ CALENDARAUTO(12)
 
 )
 ```
+
+You should now see the following date table below:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Date%20Table.png)
 
 ```
 Total Sales =
