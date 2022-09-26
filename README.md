@@ -232,5 +232,5 @@ You can format the chart to your liking.
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Resize%20and%20Drop%203.png)
 
-!
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/KPI%20Final.png)
 
