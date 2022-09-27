@@ -507,3 +507,6 @@ Sales Discount Type =
     - Apply to is set to "Values Only"
     - What Field should we base this on? "Sales Discount Type"
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Field%20and%20Icons.png)
+
+* Format the visual to your liking and the final result should look similar to mine minus the formatting choices:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Icons.png)
