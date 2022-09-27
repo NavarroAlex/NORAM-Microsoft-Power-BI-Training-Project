@@ -464,3 +464,7 @@ Click on the "Matrix" visual and resize to your preference, then add in the foll
     - If you want to match the style I have then select the "Alternating rows" option.
 You should now see the following Microstrategy table replicated in Microsoft Power BI.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Matrix%20MS%20Table.png)
+
+## Scatterplot 2:
+Next we will create a scatter plot using the data from our live connection.
+* Click the "Scatter Plot" Visual under the Visualization Pane.
