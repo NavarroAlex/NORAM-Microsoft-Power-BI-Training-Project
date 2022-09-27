@@ -281,18 +281,6 @@ SWITCH(TRUE(),
 )
 ```
 
-```
-Sales Discount Type = 
-    SWITCH(TRUE(),
-    -- first condition:
-    [Average Sales Discount]>=-100,"TrafficHighLight",
-    -- second condition:
-    [Average Sales Discount]<0 && [Average Sales Discount] >=200, "TrafficMediumLight",
-    -- third condition:
-    [Average Sales Discount]<-100, "TrafficLowLight"
-)
-```
-
 # Data Visualization:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Data%20Visualization2.png)
 Let's add a color background theme to our report.
@@ -480,3 +468,17 @@ Next we will create a scatter Cart using the data from our live connection.
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/For.png)
 * Your final Scatter Chart should look similar to mine. It won't look exactly the same unless you replicate the exact formatting that I did. We don't cover the steps for formatting a visual as this is more of a personal preference then practice. What I think might look good formatting wise might not be the same what you think looks good.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/SCatter%20Plot%20Final.png)
+
+## Table:
+Next, we will create a basic table but use the icon feature in Power BI to display Green, Yellow, or Red depending on the sales discount given. To do this we will use the following code:
+```
+Sales Discount Type = 
+    SWITCH(TRUE(),
+    -- first condition:
+    [Average Sales Discount]>=-100,"TrafficHighLight",
+    -- second condition:
+    [Average Sales Discount]<0 && [Average Sales Discount] >=200, "TrafficMediumLight",
+    -- third condition:
+    [Average Sales Discount]<-100, "TrafficLowLight"
+)
+```
