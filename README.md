@@ -458,4 +458,8 @@ Click on the "Matrix" visual and resize to your preference, then add in the foll
     - Scroll down to Row Headers and make sure "+/-" is turned off and "Stepped layout" is turned off.
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Row%20Headers.png)
 * If you want to change the display view of the matrix table to the following:
-    -- Go 
+    - Go the Visualization" Pane.
+    - "Style presets"
+    - From there you can choose the different style options in the drop down.
+    - If you want to match the style I have then select the "Alternating rows" option.
+You should now see the following Microstrategy table replicated in Microsoft Power BI.
