@@ -475,4 +475,4 @@ Next we will create a scatter Cart using the data from our live connection.
     - Y Axis: Ship Dollars
     - Order Type: Legend
     - Size: COGS
-* ![ScreenShot]()
+* ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/COGS.png)
