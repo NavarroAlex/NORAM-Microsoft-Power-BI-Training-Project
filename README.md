@@ -470,8 +470,12 @@ Next we will create a scatter Cart using the data from our live connection.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/SCatter%20Plot%20Final.png)
 
 ## Table:
-Next, we will create a basic table but use the icon feature in Power BI to display Green, Yellow, or Red depending on the sales discount given. To do this we will use the following code:
-```
+Next, we will create a basic table but use the icon feature in Power BI to display Green, Yellow, or Red depending on the sales discount given. To do this please do the following:
+* Go to the "Modeling" Tab at the top of your screen.
+* Click the "New Measure" button.
+* A blank formula bar should open up and this is where you will create your new DAX measure.
+* Copy and paste the following formula:
+    -```
 Sales Discount Type = 
     SWITCH(TRUE(),
     -- first condition:
@@ -481,4 +485,9 @@ Sales Discount Type =
     -- third condition:
     [Average Sales Discount]<-100, "TrafficLowLight"
 )
+* Format measure using the formatting options under the "Measure Tools" tab at the top of the page.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Formating%20Measures.png)
+    - make sure you store the measure under the "Measures Table" we created above.
+* Click the "check mark" once you're done.
+* You then should see the formula propogate under the "Measures Table"
 ```
