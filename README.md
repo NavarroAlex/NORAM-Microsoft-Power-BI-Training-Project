@@ -478,3 +478,5 @@ Next we will create a scatter Cart using the data from our live connection.
 * ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/COGS.png)
 * You can go to the "Visualization" Pane and format the scatter chart settings to your preference.
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/For.png)
+* Your final Scatter Chart should look similar to mine. It won't look exactly the same unless you replicate the exact formatting that I did. We don't cover the steps for formatting a visual as this is more of a personal preference then practice. What I think might look good formatting wise might not be the same what you think looks good.
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/SCatter%20Plot%20Final.png)
