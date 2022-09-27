@@ -501,3 +501,6 @@ Sales Discount Type =
     - Then Click the "fx"
     
     -![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Icons.png)
+
+You then will be prompt with the following Icon screen:
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Field%20and%20Icons.png)
