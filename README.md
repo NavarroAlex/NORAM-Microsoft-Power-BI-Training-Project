@@ -468,3 +468,4 @@ You should now see the following Microstrategy table replicated in Microsoft Pow
 ## Scatterplot 2:
 Next we will create a scatter plot using the data from our live connection.
 * Click the "Scatter Plot" Visual under the Visualization Pane.
+* ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/ScatterPlot%20Visualization%20Pane.png)
