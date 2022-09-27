@@ -493,3 +493,10 @@ Sales Discount Type =
 * You then should see the formula propogate under the "Measures Table"
 * We will then select the "Table" visual under the "Visualization" pane and make sure your columns match mine:
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Table%20Icon.png)
+* Next, we will take the measure we created above called "Sales Discount Type" and apply it to our table to display the icons.
+    - Go the Visualization Pane.
+    - Scroll down to "Cell Elements"
+    - Change the "Series" to "Sales Discount"
+    - Turn the Icons button to "On"
+    - Then Click the "fx"
+    -![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Icons.png)
