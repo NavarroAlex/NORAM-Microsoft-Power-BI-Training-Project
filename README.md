@@ -502,7 +502,7 @@ Sales Discount Type =
     
     -![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Icons.png)
 
-You then will be prompt with the following Icon screen:
+* You then will be prompt with the following Icon screen:
     - please make sure your "Format Style" is set to "Field Value".
     - Apply to is set to "Values Only"
     - What Field should we base this on? "Sales Discount Type"
