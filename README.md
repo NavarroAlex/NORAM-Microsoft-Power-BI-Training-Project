@@ -475,4 +475,4 @@ Next we will create a scatter Cart using the data from our live connection.
     - Y Axis: Ship Dollars
     - Order Type: Legend
     - Size: COGS
-*
+* ![ScreenShot]()
