@@ -492,3 +492,5 @@ Sales Discount Type =
 * Click the "check mark" once you're done.
 * You then should see the formula propogate under the "Measures Table"
 ```
+* We will then select the "Table" visual under the "Visualization" pane and make sure your columns match mine:
+    -
