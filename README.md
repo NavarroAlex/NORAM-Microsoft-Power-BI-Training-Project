@@ -522,3 +522,6 @@ Sales Discount Type =
     - Plant Type
     - Customer
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Slicers%202.png)
+
+You're final report should look similar to mine below. It will look slighty different depending on the formatting you choose to go with.
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Report%202.png)
