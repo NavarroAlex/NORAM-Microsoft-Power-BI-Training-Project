@@ -510,3 +510,14 @@ Sales Discount Type =
 
 * Format the visual to your liking and the final result should look similar to mine minus the formatting choices:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Final%20Icons.png)
+
+## Slicers:
+* Click the "Slicer" visual under the "Visualization" pane.
+* Copy the Blank "Slicker" visual by clicking on it and pressing CTRL C. Then CTRL V to paste it six more times.
+* Resize to your liking.
+* Add in the following attributes:
+    - Bill Year
+    - Business Unit
+    - Brand
+    - Plant Type
+    - Customer
