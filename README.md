@@ -453,3 +453,7 @@ Click on the "Matrix" visual and resize to your preference, then add in the foll
     - Metric Selector
 * Your visual should look like the following:
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/following.png)
+* Turn off the following options:
+    - Click "Format Your Visual" under the Visualization Pane
+    - Scroll down to Row Headers and make sure "+/-" is turned off and "Stepped layout" is turned off.
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Row%20Headers.png)
