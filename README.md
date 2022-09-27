@@ -465,7 +465,14 @@ Click on the "Matrix" visual and resize to your preference, then add in the foll
 You should now see the following Microstrategy table replicated in Microsoft Power BI.
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Matrix%20MS%20Table.png)
 
-## Scatterplot 2:
-Next we will create a scatter plot using the data from our live connection.
-* Click the "Scatter Plot" Visual under the Visualization Pane.
+## Scatter Chart 2:
+Next we will create a scatter Cart using the data from our live connection.
+* Click the "Scatter Chart" Visual under the Visualization Pane.
 * ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/ScatterPlot%20Visualization%20Pane.png)
+* Drag and drop the following columns into your Visualization pane:
+    - Values: Product Type
+    - X Axis: Sales Discount
+    - Y Axis: Ship Dollars
+    - Order Type: Legend
+    - Size: COGS
+*
