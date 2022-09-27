@@ -476,3 +476,5 @@ Next we will create a scatter Cart using the data from our live connection.
     - Order Type: Legend
     - Size: COGS
 * ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/COGS.png)
+* You can go to the "Visualization" Pane and format the scatter chart settings to your preference.
+    -
