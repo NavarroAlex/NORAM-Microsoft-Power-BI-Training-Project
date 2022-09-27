@@ -475,7 +475,7 @@ Next, we will create a basic table but use the icon feature in Power BI to displ
 * Click the "New Measure" button.
 * A blank formula bar should open up and this is where you will create your new DAX measure.
 * Copy and paste the following formula:
-    -```
+```
 Sales Discount Type = 
     SWITCH(TRUE(),
     -- first condition:
@@ -485,6 +485,7 @@ Sales Discount Type =
     -- third condition:
     [Average Sales Discount]<-100, "TrafficLowLight"
 )
+```
 * Format measure using the formatting options under the "Measure Tools" tab at the top of the page.
     - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Formating%20Measures.png)
     - make sure you store the measure under the "Measures Table" we created above.
