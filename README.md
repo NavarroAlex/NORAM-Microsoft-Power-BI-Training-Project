@@ -499,4 +499,5 @@ Sales Discount Type =
     - Change the "Series" to "Sales Discount"
     - Turn the Icons button to "On"
     - Then Click the "fx"
+    
     -![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Icons.png)
