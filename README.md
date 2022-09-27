@@ -271,7 +271,18 @@ Price =
 ```
 
 ```
+Current Month Sales No Blank =
+    -- return 0 if blank:
+    IF([Current Month Sales]=BLANK(),0,[Current Month Sales])
+```
 
+```
+Previous Month Sales No Blank =
+    -- return 0 if blank
+    IF([Previous Month Sales]=BLANK(),0,[Previous Month Sales])
+```
+
+```
 Switch_True_Function = 
 -- set switch true function:
 SWITCH(TRUE(),
