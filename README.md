@@ -493,4 +493,4 @@ Sales Discount Type =
 * You then should see the formula propogate under the "Measures Table"
 ```
 * We will then select the "Table" visual under the "Visualization" pane and make sure your columns match mine:
-    -
+    - ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Table%20Icon.png)
