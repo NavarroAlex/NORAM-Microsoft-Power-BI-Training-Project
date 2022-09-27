@@ -521,3 +521,4 @@ Sales Discount Type =
     - Brand
     - Plant Type
     - Customer
+![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Slicers%202.png)
