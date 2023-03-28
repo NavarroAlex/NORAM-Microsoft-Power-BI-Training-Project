@@ -130,6 +130,10 @@ We will import the following data sources:
 * IF Custom Type Value = ALMOND THEN BEVERAGES
 * IF Custom Type Value = GREEK THEN YOGURT
 * IF Custom Type Value = REGULAR THEN YOGURT
+* IF Product CONTAINS INTERNATIONAL DELIGHT THEN BEVERAGES
+* IF Product CONTAINS OIKOS THEN YOGURT
+* IF Product CONTAINS DUNKIN THEN BEVERAGES
+* IF Product CONTAINS BAILEYS THEN BEVERAGES
 * ELSE NULL
 
 ![ScreenShot](https://github.com/NavarroAlex/NORAM-Microsoft-Power-BI-Training/blob/main/Conditional%20Logic.png)
