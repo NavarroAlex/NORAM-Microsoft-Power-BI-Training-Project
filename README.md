@@ -492,7 +492,11 @@ Next, we will create a basic table but use the icon feature in Power BI to displ
 * Go to the "Modeling" Tab at the top of your screen.
 * Click the "New Measure" button.
 * A blank formula bar should open up and this is where you will create your new DAX measure.
-* Copy and paste the following formula:
+* Copy and paste the following two formulas and create two seperate measures:
+```
+Average Sales Discount = AVERAGE('`Order to Cash'[Sales Discount])
+```
+
 ```
 Sales Discount Type = 
     SWITCH(TRUE(),
